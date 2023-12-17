@@ -1,1 +1,5 @@
-+>++[<+>-]>.  // Initialize the first cell, read the second digit, add to the first, and print
+
+>,>,< #Getting two numbers
+[>+<-]> # Adding numbers In asscii values
+<<++++[>++++++++++<-]++[>++++<-]> # Getting zero
+[>-<-]>. # subtracting 48  the ascii sum
